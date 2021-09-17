@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+airflow/airflow.cfg
+airflow/airflow.db
+airflow/unittests.cfg
+airflow/logs/
+*.crc
+_SUCCESS
